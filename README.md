@@ -10,8 +10,8 @@ As the below line chart shows it is clear that most Pyber Fares come from Urban 
 
 
 ## Summary ##
-**Recommendation 1-** Pyber should focus on building its business in its most high fare city types- namely the urban cities and to a lesser extend suburban cities. Rural area's do not produce substational revenue. 
+**Recommendation 1-** Pyber should focus on building its business in its most high fare city types- namely the urban cities and to a lesser extend suburban cities. Rural area's do not produce substantial revenue. 
 
 **Recommendation 2-** It appears that is a trend in the Spring towards increasing ridership in suburban areas and a decrease in Urban. Pyber should build marketing strategies around this trend to take advantage.
 
-**Recommendation 3-** 
+**Recommendation 3-** This analysis should be expanded to review fare trends through the year and not just January through April. In addition, more analysis could be done to look at specific cities within the city types that tend to have more frequent and larger fares to help better target marketing efforts.
